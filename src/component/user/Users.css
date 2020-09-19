@@ -1,0 +1,26 @@
+.full_container{
+    display: flex;
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 9px;
+    margin: 15px;
+}
+.btn{
+    background:orange;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px 10px;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.img{
+    margin-right: 10px;
+}
+.container{
+    text-align: left;
+    font-size: 15px;
+}
